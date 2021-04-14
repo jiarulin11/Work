@@ -1,0 +1,1077 @@
+
+******** Run started at 2021-04-13 15:59:11.718410*******
+Running: [$r11 at 158 on bit 0 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 0): Masked
+Running: [$r11 at 158 on bit 1 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 1): SegmentationFault
+ 	Sample 0 (158, 1): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 158 on bit 2 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 2): Masked
+Running: [$r11 at 158 on bit 3 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 3): Masked
+Running: [$r11 at 158 on bit 4 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 4): Masked
+Running: [$r11 at 158 on bit 5 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 5): Masked
+Running: [$r11 at 158 on bit 6 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 6): Masked
+Running: [$r11 at 158 on bit 7 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 7): SegmentationFault
+ 	Sample 0 (158, 7): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 158 on bit 8 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 8): Masked
+Running: [$r11 at 158 on bit 9 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 9): Masked
+Running: [$r11 at 158 on bit 10 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 10): Masked
+Running: [$r11 at 158 on bit 11 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 11): Masked
+Running: [$r11 at 158 on bit 12 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 12): Masked
+Running: [$r11 at 158 on bit 13 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 13): Masked
+Running: [$r11 at 158 on bit 14 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 14): Masked
+Running: [$r11 at 158 on bit 15 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 15): Masked
+Running: [$r11 at 158 on bit 16 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 16): Masked
+Running: [$r11 at 158 on bit 17 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 17): Masked
+Running: [$r11 at 158 on bit 18 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 18): Masked
+Running: [$r11 at 158 on bit 19 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 19): Masked
+Running: [$r11 at 158 on bit 20 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 20): SegmentationFault
+ 	Sample 0 (158, 20): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 158 on bit 21 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 21): Masked
+Running: [$r11 at 158 on bit 22 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 22): Aborted
+	Sample 0 (158, 22): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 158 on bit 23 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 23): Masked
+Running: [$r11 at 158 on bit 24 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 24): Masked
+Running: [$r11 at 158 on bit 25 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 25): SegmentationFault
+ 	Sample 0 (158, 25): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 158 on bit 26 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 26): Masked
+Running: [$r11 at 158 on bit 27 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 27): SegmentationFault
+ 	Sample 0 (158, 27): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 158 on bit 28 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 28): Masked
+Running: [$r11 at 158 on bit 29 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 29): Masked
+Running: [$r11 at 158 on bit 30 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 30): SegmentationFault
+ 	Sample 0 (158, 30): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 158 on bit 31 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (158, 31): Masked
+Running: [$r11 at 237 on bit 0 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 0): Masked
+Running: [$r11 at 237 on bit 1 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 1): SegmentationFault
+ 	Sample 0 (237, 1): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 237 on bit 2 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 2): Masked
+Running: [$r11 at 237 on bit 3 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 3): Masked
+Running: [$r11 at 237 on bit 4 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 4): Masked
+Running: [$r11 at 237 on bit 5 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 5): Masked
+Running: [$r11 at 237 on bit 6 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 6): Masked
+Running: [$r11 at 237 on bit 7 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 7): SegmentationFault
+ 	Sample 0 (237, 7): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 237 on bit 8 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 8): Masked
+Running: [$r11 at 237 on bit 9 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 9): Masked
+Running: [$r11 at 237 on bit 10 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 10): Masked
+Running: [$r11 at 237 on bit 11 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 11): Masked
+Running: [$r11 at 237 on bit 12 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 12): Masked
+Running: [$r11 at 237 on bit 13 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 13): Masked
+Running: [$r11 at 237 on bit 14 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 14): Masked
+Running: [$r11 at 237 on bit 15 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 15): Masked
+Running: [$r11 at 237 on bit 16 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 16): Masked
+Running: [$r11 at 237 on bit 17 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 17): Masked
+Running: [$r11 at 237 on bit 18 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 18): Masked
+Running: [$r11 at 237 on bit 19 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 19): Masked
+Running: [$r11 at 237 on bit 20 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 20): SegmentationFault
+ 	Sample 0 (237, 20): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 237 on bit 21 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 21): Masked
+Running: [$r11 at 237 on bit 22 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 22): Aborted
+	Sample 0 (237, 22): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 237 on bit 23 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 23): Masked
+Running: [$r11 at 237 on bit 24 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 24): Masked
+Running: [$r11 at 237 on bit 25 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 25): SegmentationFault
+ 	Sample 0 (237, 25): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 237 on bit 26 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 26): Masked
+Running: [$r11 at 237 on bit 27 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 27): SegmentationFault
+ 	Sample 0 (237, 27): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 237 on bit 28 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 28): Masked
+Running: [$r11 at 237 on bit 29 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 29): Masked
+Running: [$r11 at 237 on bit 30 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 30): SegmentationFault
+ 	Sample 0 (237, 30): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 237 on bit 31 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (237, 31): Masked
+Running: [$r11 at 316 on bit 0 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 0): Masked
+Running: [$r11 at 316 on bit 1 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 1): SegmentationFault
+ 	Sample 0 (316, 1): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 316 on bit 2 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 2): Masked
+Running: [$r11 at 316 on bit 3 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 3): Masked
+Running: [$r11 at 316 on bit 4 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 4): Masked
+Running: [$r11 at 316 on bit 5 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 5): Masked
+Running: [$r11 at 316 on bit 6 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 6): Masked
+Running: [$r11 at 316 on bit 7 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 7): SegmentationFault
+ 	Sample 0 (316, 7): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 316 on bit 8 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 8): Masked
+Running: [$r11 at 316 on bit 9 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 9): Masked
+Running: [$r11 at 316 on bit 10 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 10): Masked
+Running: [$r11 at 316 on bit 11 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 11): Masked
+Running: [$r11 at 316 on bit 12 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 12): Masked
+Running: [$r11 at 316 on bit 13 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 13): Masked
+Running: [$r11 at 316 on bit 14 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 14): Masked
+Running: [$r11 at 316 on bit 15 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 15): Masked
+Running: [$r11 at 316 on bit 16 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 16): Masked
+Running: [$r11 at 316 on bit 17 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 17): Masked
+Running: [$r11 at 316 on bit 18 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 18): Masked
+Running: [$r11 at 316 on bit 19 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 19): Masked
+Running: [$r11 at 316 on bit 20 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 20): SegmentationFault
+ 	Sample 0 (316, 20): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 316 on bit 21 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 21): Masked
+Running: [$r11 at 316 on bit 22 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 22): Aborted
+	Sample 0 (316, 22): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 316 on bit 23 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 23): Masked
+Running: [$r11 at 316 on bit 24 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 24): Masked
+Running: [$r11 at 316 on bit 25 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 25): SegmentationFault
+ 	Sample 0 (316, 25): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 316 on bit 26 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 26): Masked
+Running: [$r11 at 316 on bit 27 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 27): SegmentationFault
+ 	Sample 0 (316, 27): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 316 on bit 28 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 28): Masked
+Running: [$r11 at 316 on bit 29 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 29): Masked
+Running: [$r11 at 316 on bit 30 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 30): SegmentationFault
+ 	Sample 0 (316, 30): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 316 on bit 31 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (316, 31): Masked
+Running: [$r11 at 395 on bit 0 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 0): Masked
+Running: [$r11 at 395 on bit 1 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 1): SegmentationFault
+ 	Sample 0 (395, 1): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 395 on bit 2 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 2): Masked
+Running: [$r11 at 395 on bit 3 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 3): Masked
+Running: [$r11 at 395 on bit 4 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 4): Masked
+Running: [$r11 at 395 on bit 5 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 5): Masked
+Running: [$r11 at 395 on bit 6 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 6): Masked
+Running: [$r11 at 395 on bit 7 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 7): SegmentationFault
+ 	Sample 0 (395, 7): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 395 on bit 8 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 8): Masked
+Running: [$r11 at 395 on bit 9 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 9): Masked
+Running: [$r11 at 395 on bit 10 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 10): Masked
+Running: [$r11 at 395 on bit 11 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 11): Masked
+Running: [$r11 at 395 on bit 12 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 12): Masked
+Running: [$r11 at 395 on bit 13 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 13): Masked
+Running: [$r11 at 395 on bit 14 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 14): Masked
+Running: [$r11 at 395 on bit 15 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 15): Masked
+Running: [$r11 at 395 on bit 16 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 16): Masked
+Running: [$r11 at 395 on bit 17 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 17): Masked
+Running: [$r11 at 395 on bit 18 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 18): Masked
+Running: [$r11 at 395 on bit 19 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 19): SegmentationFault
+ 	Sample 0 (395, 19): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 395 on bit 20 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 20): Masked
+Running: [$r11 at 395 on bit 21 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 21): Masked
+Running: [$r11 at 395 on bit 22 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 22): Masked
+Running: [$r11 at 395 on bit 23 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 23): Masked
+Running: [$r11 at 395 on bit 24 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 24): Masked
+Running: [$r11 at 395 on bit 25 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 25): SegmentationFault
+ 	Sample 0 (395, 25): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 395 on bit 26 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 26): Masked
+Running: [$r11 at 395 on bit 27 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 27): Masked
+Running: [$r11 at 395 on bit 28 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 28): SegmentationFault
+ 	Sample 0 (395, 28): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 395 on bit 29 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 29): Masked
+Running: [$r11 at 395 on bit 30 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 30): SegmentationFault
+ 	Sample 0 (395, 30): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 395 on bit 31 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (395, 31): Masked
+Running: [$r11 at 474 on bit 0 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 0): Masked
+Running: [$r11 at 474 on bit 1 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 1): SegmentationFault
+ 	Sample 0 (474, 1): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 474 on bit 2 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 2): Masked
+Running: [$r11 at 474 on bit 3 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 3): Masked
+Running: [$r11 at 474 on bit 4 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 4): Masked
+Running: [$r11 at 474 on bit 5 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 5): Masked
+Running: [$r11 at 474 on bit 6 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 6): Masked
+Running: [$r11 at 474 on bit 7 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 7): SegmentationFault
+ 	Sample 0 (474, 7): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 474 on bit 8 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 8): Masked
+Running: [$r11 at 474 on bit 9 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 9): Masked
+Running: [$r11 at 474 on bit 10 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 10): Masked
+Running: [$r11 at 474 on bit 11 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 11): Masked
+Running: [$r11 at 474 on bit 12 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 12): Masked
+Running: [$r11 at 474 on bit 13 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 13): Masked
+Running: [$r11 at 474 on bit 14 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 14): Masked
+Running: [$r11 at 474 on bit 15 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 15): Masked
+Running: [$r11 at 474 on bit 16 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 16): Masked
+Running: [$r11 at 474 on bit 17 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 17): Masked
+Running: [$r11 at 474 on bit 18 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 18): Masked
+Running: [$r11 at 474 on bit 19 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 19): SegmentationFault
+ 	Sample 0 (474, 19): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 474 on bit 20 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 20): Masked
+Running: [$r11 at 474 on bit 21 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 21): Masked
+Running: [$r11 at 474 on bit 22 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 22): Masked
+Running: [$r11 at 474 on bit 23 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 23): Masked
+Running: [$r11 at 474 on bit 24 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 24): Masked
+Running: [$r11 at 474 on bit 25 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 25): SegmentationFault
+ 	Sample 0 (474, 25): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 474 on bit 26 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 26): Masked
+Running: [$r11 at 474 on bit 27 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 27): Masked
+Running: [$r11 at 474 on bit 28 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 28): SegmentationFault
+ 	Sample 0 (474, 28): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 474 on bit 29 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 29): Masked
+Running: [$r11 at 474 on bit 30 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 30): SegmentationFault
+ 	Sample 0 (474, 30): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 474 on bit 31 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (474, 31): Masked
+Running: [$r11 at 553 on bit 0 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 0): Masked
+Running: [$r11 at 553 on bit 1 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 1): SegmentationFault
+ 	Sample 0 (553, 1): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 553 on bit 2 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 2): Masked
+Running: [$r11 at 553 on bit 3 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 3): Masked
+Running: [$r11 at 553 on bit 4 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 4): Masked
+Running: [$r11 at 553 on bit 5 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 5): Masked
+Running: [$r11 at 553 on bit 6 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 6): Masked
+Running: [$r11 at 553 on bit 7 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 7): SegmentationFault
+ 	Sample 0 (553, 7): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 553 on bit 8 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 8): Masked
+Running: [$r11 at 553 on bit 9 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 9): Masked
+Running: [$r11 at 553 on bit 10 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 10): Masked
+Running: [$r11 at 553 on bit 11 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 11): Masked
+Running: [$r11 at 553 on bit 12 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 12): Masked
+Running: [$r11 at 553 on bit 13 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 13): Masked
+Running: [$r11 at 553 on bit 14 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 14): Masked
+Running: [$r11 at 553 on bit 15 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 15): Masked
+Running: [$r11 at 553 on bit 16 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 16): Masked
+Running: [$r11 at 553 on bit 17 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 17): Masked
+Running: [$r11 at 553 on bit 18 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 18): Masked
+Running: [$r11 at 553 on bit 19 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 19): SegmentationFault
+ 	Sample 0 (553, 19): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 553 on bit 20 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 20): Masked
+Running: [$r11 at 553 on bit 21 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 21): Masked
+Running: [$r11 at 553 on bit 22 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 22): Masked
+Running: [$r11 at 553 on bit 23 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 23): Masked
+Running: [$r11 at 553 on bit 24 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 24): Masked
+Running: [$r11 at 553 on bit 25 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 25): SegmentationFault
+ 	Sample 0 (553, 25): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 553 on bit 26 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 26): Masked
+Running: [$r11 at 553 on bit 27 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 27): Masked
+Running: [$r11 at 553 on bit 28 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 28): SegmentationFault
+ 	Sample 0 (553, 28): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 553 on bit 29 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 29): Masked
+Running: [$r11 at 553 on bit 30 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 30): SegmentationFault
+ 	Sample 0 (553, 30): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 553 on bit 31 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (553, 31): Masked
+Running: [$r11 at 632 on bit 0 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 0): Masked
+Running: [$r11 at 632 on bit 1 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 1): SegmentationFault
+ 	Sample 0 (632, 1): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 632 on bit 2 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 2): Masked
+Running: [$r11 at 632 on bit 3 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 3): Masked
+Running: [$r11 at 632 on bit 4 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 4): Masked
+Running: [$r11 at 632 on bit 5 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 5): Masked
+Running: [$r11 at 632 on bit 6 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 6): Masked
+Running: [$r11 at 632 on bit 7 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 7): SegmentationFault
+ 	Sample 0 (632, 7): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 632 on bit 8 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 8): Masked
+Running: [$r11 at 632 on bit 9 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 9): Masked
+Running: [$r11 at 632 on bit 10 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 10): Masked
+Running: [$r11 at 632 on bit 11 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 11): Masked
+Running: [$r11 at 632 on bit 12 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 12): Masked
+Running: [$r11 at 632 on bit 13 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 13): Masked
+Running: [$r11 at 632 on bit 14 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 14): Masked
+Running: [$r11 at 632 on bit 15 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 15): Masked
+Running: [$r11 at 632 on bit 16 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 16): Masked
+Running: [$r11 at 632 on bit 17 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 17): Masked
+Running: [$r11 at 632 on bit 18 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 18): Masked
+Running: [$r11 at 632 on bit 19 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 19): SegmentationFault
+ 	Sample 0 (632, 19): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 632 on bit 20 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 20): Masked
+Running: [$r11 at 632 on bit 21 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 21): Masked
+Running: [$r11 at 632 on bit 22 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 22): Masked
+Running: [$r11 at 632 on bit 23 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 23): Masked
+Running: [$r11 at 632 on bit 24 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 24): Masked
+Running: [$r11 at 632 on bit 25 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 25): SegmentationFault
+ 	Sample 0 (632, 25): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 632 on bit 26 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 26): Masked
+Running: [$r11 at 632 on bit 27 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 27): Masked
+Running: [$r11 at 632 on bit 28 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 28): SegmentationFault
+ 	Sample 0 (632, 28): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 632 on bit 29 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 29): Masked
+Running: [$r11 at 632 on bit 30 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 30): SegmentationFault
+ 	Sample 0 (632, 30): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 632 on bit 31 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (632, 31): Masked
+Running: [$r11 at 711 on bit 0 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 0): Masked
+Running: [$r11 at 711 on bit 1 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 1): SegmentationFault
+ 	Sample 0 (711, 1): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 711 on bit 2 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 2): Masked
+Running: [$r11 at 711 on bit 3 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 3): Masked
+Running: [$r11 at 711 on bit 4 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 4): Masked
+Running: [$r11 at 711 on bit 5 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 5): Masked
+Running: [$r11 at 711 on bit 6 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 6): Masked
+Running: [$r11 at 711 on bit 7 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 7): SegmentationFault
+ 	Sample 0 (711, 7): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 711 on bit 8 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 8): Masked
+Running: [$r11 at 711 on bit 9 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 9): Masked
+Running: [$r11 at 711 on bit 10 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 10): Masked
+Running: [$r11 at 711 on bit 11 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 11): Masked
+Running: [$r11 at 711 on bit 12 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 12): Masked
+Running: [$r11 at 711 on bit 13 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 13): Masked
+Running: [$r11 at 711 on bit 14 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 14): Masked
+Running: [$r11 at 711 on bit 15 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 15): Masked
+Running: [$r11 at 711 on bit 16 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 16): Masked
+Running: [$r11 at 711 on bit 17 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 17): Masked
+Running: [$r11 at 711 on bit 18 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 18): Masked
+Running: [$r11 at 711 on bit 19 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 19): SegmentationFault
+ 	Sample 0 (711, 19): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 711 on bit 20 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 20): Masked
+Running: [$r11 at 711 on bit 21 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 21): Masked
+Running: [$r11 at 711 on bit 22 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 22): Masked
+Running: [$r11 at 711 on bit 23 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 23): Masked
+Running: [$r11 at 711 on bit 24 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 24): Masked
+Running: [$r11 at 711 on bit 25 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 25): SegmentationFault
+ 	Sample 0 (711, 25): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 711 on bit 26 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 26): Masked
+Running: [$r11 at 711 on bit 27 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 27): Masked
+Running: [$r11 at 711 on bit 28 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 28): SegmentationFault
+ 	Sample 0 (711, 28): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 711 on bit 29 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 29): Masked
+Running: [$r11 at 711 on bit 30 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 30): SegmentationFault
+ 	Sample 0 (711, 30): Crit [0.0, 0.0, 0.0] != [1.47323, 1.37515, 8.18]
+Running: [$r11 at 711 on bit 31 Sample 0]
+	Sending input sample
+	Stepping thorugh
+	Sample 0 (711, 31): Masked
