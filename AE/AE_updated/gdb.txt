@@ -1,0 +1,81 @@
+Dump of assembler code for function main(int, char**):
+   0x00010b30 <+0>:	push	{r11, lr}
+   0x00010b34 <+4>:	add	r11, sp, #4
+   0x00010b38 <+8>:	sub	sp, sp, #96	; 0x60
+   0x00010b3c <+12>:	str	r0, [r11, #-96]	; 0xffffffa0
+   0x00010b40 <+16>:	str	r1, [r11, #-100]	; 0xffffff9c
+   0x00010b44 <+20>:	sub	r3, r11, #72	; 0x48
+   0x00010b48 <+24>:	ldr	r1, [pc, #264]	; 0x10c58 <main(int, char**)+296>
+   0x00010b4c <+28>:	mov	r0, r3
+   0x00010b50 <+32>:	bl	0x109e8 <sprintf@plt>
+   0x00010b54 <+36>:	sub	r3, r11, #72	; 0x48
+   0x00010b58 <+40>:	mov	r0, r3
+   0x00010b5c <+44>:	bl	0x1217c <read_file(char*)>
+   0x00010b60 <+48>:	mov	r3, r0
+   0x00010b64 <+52>:	str	r3, [r11, #-16]
+   0x00010b68 <+56>:	ldr	r3, [r11, #-100]	; 0xffffff9c
+   0x00010b6c <+60>:	add	r3, r3, #4
+   0x00010b70 <+64>:	ldr	r3, [r3]
+   0x00010b74 <+68>:	mov	r1, r3
+   0x00010b78 <+72>:	ldr	r0, [r11, #-16]
+   0x00010b7c <+76>:	bl	0x10c6c <NQKF(double*, char*)>
+   0x00010b80 <+80>:	mov	r2, r0
+   0x00010b84 <+84>:	ldr	r3, [pc, #208]	; 0x10c5c <main(int, char**)+300>
+   0x00010b88 <+88>:	str	r2, [r3]
+   0x00010b8c <+92>:	ldr	r3, [pc, #204]	; 0x10c60 <main(int, char**)+304>
+   0x00010b90 <+96>:	sub	r12, r11, #88	; 0x58
+   0x00010b94 <+100>:	ldm	r3, {r0, r1, r2, r3}
+   0x00010b98 <+104>:	stmia	r12!, {r0, r1, r2}
+   0x00010b9c <+108>:	strb	r3, [r12]
+   0x00010ba0 <+112>:	sub	r3, r11, #88	; 0x58
+   0x00010ba4 <+116>:	ldr	r1, [pc, #184]	; 0x10c64 <main(int, char**)+308>
+   0x00010ba8 <+120>:	mov	r0, r3
+   0x00010bac <+124>:	bl	0x10970 <fopen@plt>
+   0x00010bb0 <+128>:	mov	r3, r0
+   0x00010bb4 <+132>:	str	r3, [r11, #-20]	; 0xffffffec
+   0x00010bb8 <+136>:	mov	r3, #0
+   0x00010bbc <+140>:	str	r3, [r11, #-8]
+   0x00010bc0 <+144>:	ldr	r3, [r11, #-8]
+   0x00010bc4 <+148>:	cmp	r3, #3
+   0x00010bc8 <+152>:	bgt	0x10c34 <main(int, char**)+260>
+   0x00010bcc <+156>:	mov	r3, #0
+   0x00010bd0 <+160>:	str	r3, [r11, #-12]
+   0x00010bd4 <+164>:	ldr	r3, [r11, #-12]
+   0x00010bd8 <+168>:	cmp	r3, #0
+   0x00010bdc <+172>:	bgt	0x10c24 <main(int, char**)+244>
+   0x00010be0 <+176>:	ldr	r3, [pc, #116]	; 0x10c5c <main(int, char**)+300>
+   0x00010be4 <+180>:	ldr	r2, [r3]
+   0x00010be8 <+184>:	ldr	r3, [r11, #-8]
+   0x00010bec <+188>:	lsl	r3, r3, #2
+   0x00010bf0 <+192>:	add	r3, r2, r3
+   0x00010bf4 <+196>:	ldr	r2, [r3]
+   0x00010bf8 <+200>:	ldr	r3, [r11, #-12]
+   0x00010bfc <+204>:	lsl	r3, r3, #3
+   0x00010c00 <+208>:	add	r3, r2, r3
+   0x00010c04 <+212>:	ldrd	r2, [r3]
+   0x00010c08 <+216>:	ldr	r1, [pc, #88]	; 0x10c68 <main(int, char**)+312>
+   0x00010c0c <+220>:	ldr	r0, [r11, #-20]	; 0xffffffec
+   0x00010c10 <+224>:	bl	0x109d0 <fprintf@plt>
+   0x00010c14 <+228>:	ldr	r3, [r11, #-12]
+   0x00010c18 <+232>:	add	r3, r3, #1
+   0x00010c1c <+236>:	str	r3, [r11, #-12]
+   0x00010c20 <+240>:	b	0x10bd4 <main(int, char**)+164>
+   0x00010c24 <+244>:	ldr	r3, [r11, #-8]
+   0x00010c28 <+248>:	add	r3, r3, #1
+   0x00010c2c <+252>:	str	r3, [r11, #-8]
+   0x00010c30 <+256>:	b	0x10bc0 <main(int, char**)+144>
+   0x00010c34 <+260>:	ldr	r1, [r11, #-20]	; 0xffffffec
+   0x00010c38 <+264>:	mov	r0, #10
+   0x00010c3c <+268>:	bl	0x109ac <fputc@plt>
+   0x00010c40 <+272>:	ldr	r0, [r11, #-20]	; 0xffffffec
+   0x00010c44 <+276>:	bl	0x109dc <fclose@plt>
+   0x00010c48 <+280>:	mov	r3, #0
+   0x00010c4c <+284>:	mov	r0, r3
+   0x00010c50 <+288>:	sub	sp, r11, #4
+   0x00010c54 <+292>:	pop	{r11, pc}
+   0x00010c58 <+296>:	andeq	r7, r1, r0, lsr #18
+   0x00010c5c <+300>:	andeq	r9, r2, r4, lsr #1
+   0x00010c60 <+304>:	andeq	r7, r1, r8, lsr r9
+   0x00010c64 <+308>:	andeq	r7, r1, r12, lsr #18
+   0x00010c68 <+312>:	andeq	r7, r1, r0, lsr r9
+End of assembler dump.
